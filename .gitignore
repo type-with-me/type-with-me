@@ -1,0 +1,10 @@
+# Gradle 관련 파일
+/.gradle/
+/build/
+/out/
+
+# IntelliJ IDEA 관련 파일
+/.idea/
+*.iml
+*.ipr
+*.iws
